@@ -35,8 +35,7 @@ Simulator 上 Add Directory ボタンを押すと、ファイルチューザが�
 ![add-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/add-app.png)
 ---
 # アプリを起動する
-追加されたアプリにある Connect ボタンを押すと、シミュレータが起動され、アプリも同時に起動する。
-
+追加されたアプリにある Connect ボタンを押すと、シミュレータが起動され、アプリも同時に起動する。また、開発コンソールも起動する。
 
 ![boot-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/boot-app.png)
 ---
