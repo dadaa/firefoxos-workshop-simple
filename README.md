@@ -12,13 +12,6 @@ Firefox のメニューバー内 ツールから
 
 を起動してください。
 ---
-#実機のセットアップ
-Simulator と実機をつなぐためのセットアップを行います。Setting アプリケーションを起動し、以下の設定項目にチェックを入れてください。
-
-* Device Information &gt; More Information &gt; Developer &gt; Remote debugging
-* Device Information &gt; More Information &gt; Developer &gt; Console enabled
-
----
 # スケルトンのダウンロードと解凍
 スケルトンをダウンロードしたのち、解凍してください。
 
@@ -55,6 +48,34 @@ index.html をテキストエディタで開き、button 要素を追加。ク�
 
 
 ![screenshot-onebutton.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/screenshot-onebutton.png)
+---
+# 実機で起動してみましょう
+* 実機のセットアップ
+* USB での接続
+* PUSH
+* 確認
+* やったね。
+---
+#実機のセットアップ
+Simulator と実機をつなぐためのセットアップを行います。Setting アプリケーションを起動し、以下の設定項目にチェックを入れてください。
 
-おつかれさまでした！！
+* Device Information &gt; More Information &gt; Developer &gt; Remote debugging
+* Device Information &gt; More Information &gt; Developer &gt; Console enabled
+
+---
+# USB で接続
+USB で実機と開発マシンを接続します。接続すると Simulator 上では、デバイスが接続されたことを示す Device Connected およびアプリ付近には、実機へのアップロードを促す Push ボタンが表示されています。
+
+![connected.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/connected.png)
+
+![push.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/push.png)
+---
+# 実機にアップロード
+Push ボタンを押し、実機にアップロードします。
+
+---
+#実機で起動できていることを確認
+
+---
+# おつかれさまでした！
 ---
