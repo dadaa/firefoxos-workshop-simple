@@ -22,7 +22,7 @@ Firefox のメニューバー内 ツールから
 
 [skeleton.zip](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/skeleton.zip)
 ---
-# スケルトンのマニフェストを編集
+# マニフェストを編集
 解凍してできたディレクトリ内の manifest.webapp を編集します。テキストエディタで manifest.webapp を開き、自分のアプリ用に修正します。
 
 マニフェストファイルの説明はこちらにあります。
