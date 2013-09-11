@@ -79,3 +79,5 @@ Push ボタンを押し、実機にアップロードします。
 ---
 # おつかれさまでした！
 ---
+![keon.JPG](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/keon.JPG)
+---
