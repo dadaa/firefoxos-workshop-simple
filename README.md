@@ -84,5 +84,13 @@ Push ボタンを押し、実機にアップロードします。
 ![keon.JPG](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/keon.JPG)
 
 ---
+# 実機におけるデバッグ
+現状ではシミュレータによるリモートデバッグはしづらい状況にあります。
+
+解決策として、以下のページにように [Android Developer Tools](http://developer.android.com/sdk/index.html) を介して、console.log などのデバッグ文を受け取ることが可能になります。
+
+[https://github.com/dynamis/firefoxos/wiki/apps#how-to-install-adb](https://github.com/dynamis/firefoxos/wiki/apps#how-to-install-adb)
+
+---
 # おつかれさまでした！
 ---
