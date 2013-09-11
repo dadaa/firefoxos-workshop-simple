@@ -19,6 +19,8 @@ Firefox のメニューバー内 ツールから
 # スケルトンのダウンロードと解凍
 スケルトンをダウンロードしたのち、解凍してください。
 
+
+[skeleton.zip](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/skeleton.zip)
 ---
 # スケルトンのマニフェストを編集
 解凍してできたディレクトリ内の manifest.webapp を編集します。好きなテキストエディタを起動し manifest.webapp を開き、自分のアプリ用に修正します。
