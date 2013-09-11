@@ -51,7 +51,7 @@ index.html をテキストエディタで開き、button 要素を追加。ク�
 [add-button.html](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/add-button.html)
 ---
 # スクリーンショット
-
+以下はアラートのスクリーンショットです。
 
 ![screenshot-onebutton.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/screenshot-onebutton.png)
 ---
