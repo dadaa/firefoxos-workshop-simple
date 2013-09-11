@@ -2,6 +2,10 @@
 ## firefoxos,workshop
 This document is made by [gitfab](http://gitfab.org)
 ---
+#サムネイル
+![keon.JPG](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/keon.JPG)
+
+---
 # 開発環境のセットアップ
 Firefox OS Simulator を利用するため、まずは Firefox のインストールを行ってください。後に、Firefox OS Simulator のインストールしてください。
 ---
@@ -78,6 +82,4 @@ Push ボタンを押し、実機にアップロードします。
 
 ---
 # おつかれさまでした！
----
-![keon.JPG](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/keon.JPG)
 ---
