@@ -55,4 +55,6 @@ index.html をテキストエディタで開き、button 要素を追加。ク�
 
 
 ![screenshot-onebutton.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/screenshot-onebutton.png)
+
+おつかれさまでした！！
 ---
