@@ -35,7 +35,24 @@ Simulator 上 Add Directory ボタンを押すと、ファイルチューザが�
 ![add-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/add-app.png)
 ---
 # アプリを起動する
-追加されたアプリにある Connect ボタンを押すと、シミュレータが起動され、アプリも同時に起動する。また、開発コンソールも起動する。
+追加されたアプリにある Refresh ボタンを押すと、シミュレータが起動され、アプリも同時に起動する。
 
 ![boot-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/boot-app.png)
+---
+# 起動画面
+
+
+![screenshot-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/screenshot-app.png)
+---
+# ボタンを追加してみましょうか。
+index.html をテキストエディタで開き、button 要素を追加。クリックイベントをトリガーし、アラートを出してみましょう。
+
+
+
+[add-button.html](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/add-button.html)
+---
+# スクリーンショット
+
+
+![screenshot-onebutton.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/screenshot-onebutton.png)
 ---
