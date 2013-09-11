@@ -7,7 +7,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ---
 # 開発環境のセットアップ
-Firefox OS Simulator を利用するため、まずは Firefox のインストールを行ってください。後に、Firefox OS Simulator のインストールしてください。
+Firefox OS Simulator を利用するため、まずは Firefox のインストールを行ってください。後に [Firefox OS Simulator](https://addons.mozilla.org/ja/firefox/addon/firefox-os-simulator/) をインストールしてください。
 ---
 #Firefox OS Simulator の起動
 Firefox のメニューバー内 ツールから 
@@ -23,7 +23,7 @@ Firefox のメニューバー内 ツールから
 [skeleton.zip](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/skeleton.zip)
 ---
 # スケルトンのマニフェストを編集
-解凍してできたディレクトリ内の manifest.webapp を編集します。好きなテキストエディタを起動し manifest.webapp を開き、自分のアプリ用に修正します。
+解凍してできたディレクトリ内の manifest.webapp を編集します。テキストエディタで manifest.webapp を開き、自分のアプリ用に修正します。
 
 マニフェストファイルの説明はこちらにあります。
 [https://developer.mozilla.org/ja/docs/Web/Apps/Manifest](https://developer.mozilla.org/ja/docs/Web/Apps/Manifest)
