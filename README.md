@@ -79,6 +79,7 @@ Push ボタンを押し、実機にアップロードします。
 
 ---
 #実機で起動できていることを確認
+![keon.JPG](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/keon.JPG)
 
 ---
 # おつかれさまでした！
