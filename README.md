@@ -29,3 +29,8 @@ Simulator と実機をつなぐためのセットアップを行います。Sett
 マニフェストファイルの説明はこちらにあります。
 [https://developer.mozilla.org/ja/docs/Web/Apps/Manifest](https://developer.mozilla.org/ja/docs/Web/Apps/Manifest)
 ---
+# 起動する
+Simulator 上 Add Directory ボタンを押すと、ファイルチューザが開くので、先ほど修正した manifest.webapp を選択します。
+
+![boot-simple.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/boot-simple.png)
+---
