@@ -8,15 +8,15 @@ Firefox OS Simulator を利用するため、まずは Firefox のインスト�
 #Firefox OS Simulator の起動
 Firefox のメニューバー内 ツールから 
 
-* Web 開発 > Firefox OS Simulator
+* Web 開発 &gt; Firefox OS Simulator
 
 を起動してください。
 ---
 #実機のセットアップ
 Simulator と実機をつなぐためのセットアップを行います。Setting アプリケーションを起動し、以下の設定項目にチェックを入れてください。
 
-* Device Information > More Information > Developer > Remote debugging
-* Device Information > More Information > Developer > Console enabled
+* Device Information &gt; More Information &gt; Developer &gt; Remote debugging
+* Device Information &gt; More Information &gt; Developer &gt; Console enabled
 
 ---
 # スケルトンのダウンロードと解凍
@@ -32,5 +32,11 @@ Simulator と実機をつなぐためのセットアップを行います。Sett
 # アプリをシミュレータに追加する
 Simulator 上 Add Directory ボタンを押すと、ファイルチューザが開くので、先ほど修正した manifest.webapp を選択します。
 
-![boot-simple.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/boot-simple.png)
+![add-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/add-app.png)
+---
+# アプリを起動する
+追加されたアプリにある Connect ボタンを押すと、シミュレータが起動され、アプリも同時に起動する。
+
+
+![boot-app.png](https://raw.github.com/dadaa/firefoxos-workshop-simple/master/gitfab/resources/boot-app.png)
 ---
